@@ -1,0 +1,162 @@
+[18Dec2024 03:06:22.275] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forge_server]
+[18Dec2024 03:06:22.278] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.5+11-LTS
+[18Dec2024 03:06:22.279] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.1 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[18Dec2024 03:06:22.373] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/servermin/servidor_minecraft/config/fml.toml is not correct. Correcting
+[18Dec2024 03:06:22.376] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[18Dec2024 03:06:22.377] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[18Dec2024 03:06:22.379] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[18Dec2024 03:06:22.379] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[18Dec2024 03:06:22.402] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forge_server
+[18Dec2024 03:06:22.557] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///workspaces/servermin/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=SERVER
+[18Dec2024 03:06:22.931] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[18Dec2024 03:06:23.992] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_server' with arguments []
+[18Dec2024 03:06:24.436] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:///workspaces/servermin/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/servermin/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:///workspaces/servermin/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties, jar:file:/workspaces/servermin/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.properties]
+[18Dec2024 03:06:24.631] [main/WARN] [oshi.util.FileUtil/]: Configuration conflict: there is more than one oshi.architecture.properties file on the classpath: [jar:file:///workspaces/servermin/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/servermin/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:///workspaces/servermin/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties, jar:file:/workspaces/servermin/servidor_minecraft/libraries/com/github/oshi/oshi-core/6.4.10/oshi-core-6.4.10.jar!/oshi.architecture.properties]
+[18Dec2024 03:06:33.299] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 51.0.33, for MC 1.21 with MCP 20240613.102039
+[18Dec2024 03:06:33.305] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v51.0.33 Initialized
+[18Dec2024 03:06:33.312] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[18Dec2024 03:06:34.360] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Dec2024 03:06:35.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: BETA Current: 51.0.33 Target: 51.0.33
+[18Dec2024 03:06:36.346] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18Dec2024 03:06:37.762] [main/INFO] [net.minecraft.server.Main/]: No existing world data, creating new world
+[18Dec2024 03:06:39.017] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 1290 recipes
+[18Dec2024 03:06:39.702] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1399 advancements
+[18Dec2024 03:06:40.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21
+[18Dec2024 03:06:40.429] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Dec2024 03:06:40.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18Dec2024 03:06:40.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Dec2024 03:06:40.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18Dec2024 03:06:40.667] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18Dec2024 03:06:40.728] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18Dec2024 03:06:40.729] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18Dec2024 03:06:40.729] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18Dec2024 03:06:40.730] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18Dec2024 03:06:40.765] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[18Dec2024 03:06:40.766] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SynchronizedConfig{DataHolder:{}}. 
+[18Dec2024 03:06:40.768] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[18Dec2024 03:06:40.772] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[18Dec2024 03:06:40.772] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[18Dec2024 03:06:40.774] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[18Dec2024 03:06:40.775] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[18Dec2024 03:06:40.830] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18Dec2024 03:06:55.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Dec2024 03:06:55.555] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:06:56.293] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:06:56.471] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:06:57.066] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:06:57.475] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:06:58.130] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:06:58.485] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:06:59.059] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:06:59.483] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:07:00.185] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:07:00.532] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:07:01.059] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:07:01.516] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:07:01.984] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:07:02.473] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:07:03.011] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:07:03.527] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:07:03.972] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:07:04.481] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:07:04.978] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:07:05.490] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Dec2024 03:07:05.989] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[18Dec2024 03:07:06.709] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11238 ms
+[18Dec2024 03:07:06.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (25.955s)! For help, type "help"
+[18Dec2024 03:07:06.727] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Dec2024 03:15:56.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[18Dec2024 03:15:56.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[18Dec2024 03:15:56.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[18Dec2024 03:15:56.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[18Dec2024 03:15:56.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[18Dec2024 03:15:56.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[18Dec2024 03:15:56.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[18Dec2024 03:15:56.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[18Dec2024 03:15:56.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[18Dec2024 03:15:56.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[18Dec2024 03:15:56.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[18Dec2024 03:15:56.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[18Dec2024 03:15:56.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[18Dec2024 03:15:56.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[18Dec2024 03:15:56.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[18Dec2024 03:15:56.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[18Dec2024 03:15:56.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[18Dec2024 03:15:56.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[18Dec2024 03:15:56.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[18Dec2024 03:15:56.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[18Dec2024 03:15:56.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name> [<arguments>|with]
+[18Dec2024 03:15:56.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[18Dec2024 03:15:56.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[18Dec2024 03:15:56.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[18Dec2024 03:15:56.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[18Dec2024 03:15:56.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[18Dec2024 03:15:56.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[18Dec2024 03:15:56.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[18Dec2024 03:15:56.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[18Dec2024 03:15:56.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[18Dec2024 03:15:56.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[18Dec2024 03:15:56.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[18Dec2024 03:15:56.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[18Dec2024 03:15:56.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[18Dec2024 03:15:56.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[18Dec2024 03:15:56.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[18Dec2024 03:15:56.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[18Dec2024 03:15:56.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /random (value|roll|reset)
+[18Dec2024 03:15:56.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[18Dec2024 03:15:56.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[18Dec2024 03:15:56.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return (<value>|fail|run)
+[18Dec2024 03:15:56.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[18Dec2024 03:15:56.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[18Dec2024 03:15:56.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[18Dec2024 03:15:56.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[18Dec2024 03:15:56.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[18Dec2024 03:15:56.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[18Dec2024 03:15:56.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[18Dec2024 03:15:56.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[18Dec2024 03:15:56.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[18Dec2024 03:15:56.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[18Dec2024 03:15:56.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[18Dec2024 03:15:56.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[18Dec2024 03:15:56.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[18Dec2024 03:15:56.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[18Dec2024 03:15:56.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[18Dec2024 03:15:56.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[18Dec2024 03:15:56.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[18Dec2024 03:15:56.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[18Dec2024 03:15:56.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[18Dec2024 03:15:56.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[18Dec2024 03:15:56.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[18Dec2024 03:15:56.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[18Dec2024 03:15:56.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[18Dec2024 03:15:56.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[18Dec2024 03:15:56.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[18Dec2024 03:15:56.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[18Dec2024 03:15:56.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[18Dec2024 03:15:56.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[18Dec2024 03:15:56.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[18Dec2024 03:15:56.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[18Dec2024 03:15:56.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[18Dec2024 03:15:56.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[18Dec2024 03:15:56.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[18Dec2024 03:15:56.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[18Dec2024 03:15:56.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[18Dec2024 03:15:56.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[18Dec2024 03:15:56.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[18Dec2024 03:15:56.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[18Dec2024 03:15:56.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[18Dec2024 03:15:56.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /transfer <hostname> [<port>]
+[18Dec2024 03:15:56.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[18Dec2024 03:15:56.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[18Dec2024 03:15:56.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[18Dec2024 03:15:59.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Dec2024 03:15:59.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Dec2024 03:15:59.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Dec2024 03:15:59.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Dec2024 03:16:01.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Dec2024 03:16:02.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Dec2024 03:16:02.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Dec2024 03:16:02.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Dec2024 03:16:02.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Dec2024 03:16:02.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Dec2024 03:16:02.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
